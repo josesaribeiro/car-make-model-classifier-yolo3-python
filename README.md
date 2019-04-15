@@ -53,7 +53,6 @@ optional arguments:
   --confidence CONFIDENCE  minimum probability to filter weak detections, default 0.5
   --threshold THRESHOLD    threshold when applying non-maxima suppression, default 0.3
 ```
-![image](https://github.com/spectrico/car-make-model-classifier-yolo3-python/blob/master/car_make_model_recognition.gif?raw=true)
 
 ---
 ## Requirements
